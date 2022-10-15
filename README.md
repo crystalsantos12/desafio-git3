@@ -1,2 +1,2 @@
-# desafio-git3
-desafio de projeto desobre Git/github3
+# desafio-git3/Desafio-dio
+desafio de projeto sobre Git/github3
