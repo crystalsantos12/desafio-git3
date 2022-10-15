@@ -1,2 +1,2 @@
-# desafio-git3/Desafio-dio
+# Dio-desafio-github-primeiro-repositorio
 desafio de projeto sobre Git/github3
